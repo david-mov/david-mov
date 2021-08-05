@@ -19,7 +19,7 @@ Technologies I've been learning and using so far :
   ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
   ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
   ![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=1572B6)
-- Frameworks, Platforms and Libraries:
+- Frameworks, Platforms and Libraries: <br />
   ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)
   ![React-Router](https://img.shields.io/badge/-React_Router-eee?style=flat-square&logo=react-router&logoColor=CA4245)
   ![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=764abc)
