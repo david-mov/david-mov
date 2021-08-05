@@ -38,6 +38,7 @@ Technologies I've been learning and using so far :
     ![Jest](https://img.shields.io/badge/-Jest-eee?style=flat-square&logo=jest&logoColor=99425B)
 - IDEs & Tools: <br />
     ![SublimeText3](https://img.shields.io/badge/-Sublime_Text_3-eee?style=flat-square&logo=sublime-text&logoColor=important)
+    ![VSCode](https://img.shields.io/badge/-VS_Code-eee?style=flat-square&logo=visual-studio-code&logoColor=68217a)
     ![NPM](https://img.shields.io/badge/-npm-eee?style=flat-square&logo=npm)
     ![Git](https://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F34F29)
     ![Postman](https://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman)
