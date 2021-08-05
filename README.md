@@ -9,13 +9,13 @@ I’m a 20 year old Argentine boy starting my career as a programmer. I’m a **
 - 🌱 I’m currently working on a individual project for the Henry Academy bootcamp.
 - 📚 I’m currently learning Full Stack: React, Redux, Node, Express, Sequelize.
 - ⭐ Full-Stack Teaching Assistant in the Bootcamp Pre Course.
-- 😍 My hobbies are writing, training, and playing basketball.
+- 😍 My hobbies are writing songs, training, and playing basketball.
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/sergio-david-movsichoff-221824209/).
 - 💌 Contact me at [davidmovsichoff@gmail.com](mailto:davidmovsichoff@gmail.com).
 
 Technologies I've been learning and using so far :
 
-- Programming Languages:
+- Programming Languages: <br />
   ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
   ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
   ![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=1572B6)
@@ -30,16 +30,16 @@ Technologies I've been learning and using so far :
   ![LESS](https://img.shields.io/badge/-LESS-eee?style=flat-square&logo=less&logoColor=2A4D80)
   ![JQuery](https://img.shields.io/badge/-JQuery-eee?style=flat-square&logo=jquery&logoColor=0868AC)
   ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=webpack&logoColor=1c78c0)
-- IDEs/Editors and Tools:
+- IDEs/Editors and Tools: <br />
   ![SublimeText3](https://img.shields.io/badge/-Sublime_Text_3-eee?style=flat-square&logo=sublime-text&logoColor=important)
   ![VSCode](https://img.shields.io/badge/-VS_Code-eee?style=flat-square&logo=visual-studio-code&logoColor=68217a)
   ![NPM](https://img.shields.io/badge/-npm-eee?style=flat-square&logo=npm)
   ![Git](https://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F34F29)
   ![Postman](https://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman)
   ![Babel](https://img.shields.io/badge/-Babel-eee?style=flat-square&logo=babel)
-- Databases:
+- Databases: <br />
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=336791)
 ![SQLite](https://img.shields.io/badge/-SQLite-eee?style=flat-square&logo=sqlite&logoColor=%2307405e)
-- Testing:
+- Testing: <br />
   ![Mocha](https://img.shields.io/badge/-Mocha-eee?style=flat-square&logo=mocha)
   ![Jest](https://img.shields.io/badge/-Jest-eee?style=flat-square&logo=jest&logoColor=99425B)
