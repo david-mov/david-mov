@@ -2,7 +2,7 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/david-mov/)](https://github.com/david-mov/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-david-movsichoff-221824209/)](https://www.linkedin.com/in/sergio-david-movsichoff-221824209/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.davidmovsichoff@gmail.com)](mailto:davidmovsichoff@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/soydavidmov)](https://twitter.com/soydavidmov)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mov_david)](https://twitter.com/mov_david)
 
 I’m a 20 year old Argentine boy starting my career as a programmer. I’m a **Programming Technician** graduated from [E.E.S.T n°2](https://yellow.place/es/escuela-de-educaci%C3%B3n-secundaria-t%C3%A9cnica-n2-lomas-de-zamora-temperley-argentina) of Buenos Aires. and I’m on the way to be a **Full Stack Web Developer** studying at [Henry Academy](https://www.soyhenry.com/).
 
@@ -21,7 +21,7 @@ Technologies I've been learning and using so far :
     ![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=1572B6)
 - Frontend: <br />
     ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)
-    ![React-Router](https://img.shields.io/badge/-React_Router-eee?style=flat-square&logo=react-router&logoColor=CA4245)
+    <!-- ![React-Router](https://img.shields.io/badge/-React_Router-eee?style=flat-square&logo=react-router&logoColor=CA4245) -->
     ![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=764abc)
     ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
     ![LESS](https://img.shields.io/badge/-LESS-eee?style=flat-square&logo=less&logoColor=2A4D80)
