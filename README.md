@@ -1,6 +1,6 @@
 ### Hi, I'm David - Full Stack Web Developer 👋
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/david-mov/)](https://github.com/david-mov/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-david-movsichoff-221824209/)](https://www.linkedin.com/in/sergio-david-movsichoff-221824209/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-mov)](https://www.linkedin.com/in/david-mov)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.davidmovsichoff@gmail.com)](mailto:davidmovsichoff@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mov_david)](https://twitter.com/mov_david)
 
