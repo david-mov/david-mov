@@ -22,7 +22,7 @@ Technologies I've been learning and using so far :
     ![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=1572B6)
 - Frontend: <br />
     ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)
-    [React-Router](https://img.shields.io/badge/-React_Router-eee?style=flat-square&logo=react-router&logoColor=CA4245)
+    ![React-Router](https://img.shields.io/badge/-React_Router-eee?style=flat-square&logo=react-router&logoColor=CA4245)
     <!-- ![React-Native](https://img.shields.io/badge/-React_Native-eee?style=flat-square&logo=react) -->
     ![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=764abc)
     ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
