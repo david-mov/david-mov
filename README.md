@@ -17,13 +17,13 @@ Technologies I've been learning and using so far :
 
 - Programming Languages: <br />
     ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
-    ![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript)
+    <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript) -->
     ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
     ![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=1572B6)
 - Frontend: <br />
     ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)
-    <!-- ![React-Router](https://img.shields.io/badge/-React_Router-eee?style=flat-square&logo=react-router&logoColor=CA4245) -->
-    ![React-Native](https://img.shields.io/badge/-React_Native-eee?style=flat-square&logo=react)
+    [React-Router](https://img.shields.io/badge/-React_Router-eee?style=flat-square&logo=react-router&logoColor=CA4245)
+    <!-- ![React-Native](https://img.shields.io/badge/-React_Native-eee?style=flat-square&logo=react) -->
     ![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=764abc)
     ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
     ![LESS](https://img.shields.io/badge/-LESS-eee?style=flat-square&logo=less&logoColor=2A4D80)
@@ -34,8 +34,8 @@ Technologies I've been learning and using so far :
     ![Express](https://img.shields.io/badge/-Express-eee?style=flat-square&logo=express&logoColor=%2361DAFB)
     ![Sequelize](https://img.shields.io/badge/-Sequelize-eee?style=flat-square&logo=sequelize&logoColor=2f406a)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=336791)
-    ![Mongoose](https://img.shields.io/badge/-Mongoose-eee?style=flat-square&logo=mongodb&logoColor=6e1217)
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb)
+    <!-- ![Mongoose](https://img.shields.io/badge/-Mongoose-eee?style=flat-square&logo=mongodb&logoColor=6e1217) -->
+    <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb) -->
     ![SQLite](https://img.shields.io/badge/-SQLite-eee?style=flat-square&logo=sqlite&logoColor=%2307405e)
 - Testing: <br />
     ![Mocha](https://img.shields.io/badge/-Mocha-eee?style=flat-square&logo=mocha)
