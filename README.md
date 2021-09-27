@@ -48,5 +48,19 @@ Technologies I've been learning and using so far :
     ![Postman](https://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman)
     ![Babel](https://img.shields.io/badge/-Babel-eee?style=flat-square&logo=babel)
 
-<!-- Experiences: -->
+Experiences:
+
+Full-Stack Teaching Assistant
+Bootcamp Pre Course Assistant (Henry Hero)  for Full-Stack Development Students
+• Guide students in the first steps of the course
+• Assist to solve exercises vía Slack
+• Live lectures to students
+• Propose ideas to improve the Bootcamp processes
+
+Full-Stack Individual Project
+Development of a SPA (Single Page Application) for the Henry Academy Bootcamp: 
+• Consumes data from the APÍ "REST Countries".
+• Frontend built with React, React Router, Redux and CSS Modules.
+• Backend built with NodeJS, Express, Sequelize and PostgreSQL.
+• Some features: pagination, searches, orders and filters, controlled form to add and/or associate a tourist activity to one or more countries, etc.
 
