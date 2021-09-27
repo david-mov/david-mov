@@ -13,7 +13,7 @@ I’m a 20 year old Argentine boy starting my career as a programmer. I´m a **F
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/sergio-david-movsichoff-221824209/).
 - 💌 Contact me at [davidmovsichoff@gmail.com](mailto:davidmovsichoff@gmail.com).
 
-###### Technologies I've been learning and using so far :
+##### Technologies I've been learning and using so far :
 
 - Programming Languages: <br />
     ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
@@ -48,14 +48,7 @@ I’m a 20 year old Argentine boy starting my career as a programmer. I´m a **F
     ![Postman](https://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman)
     ![Babel](https://img.shields.io/badge/-Babel-eee?style=flat-square&logo=babel)
 
-###### Experiences :
-
-**Full-Stack Teaching Assistant** <br />
-*Bootcamp Pre Course Assistant (Henry Hero)  for Full-Stack Development Students* <br />
-- Guide students in the first steps of the course
-- Assist to solve exercises vía Slack
-- Live lectures to students
-- Propose ideas to improve the Bootcamp processes
+##### Experiences :
 
 **Full-Stack Individual Project** <br />
 *Development of a SPA (Single Page Application) for the Henry Academy Bootcamp :* <br />
@@ -63,4 +56,11 @@ I’m a 20 year old Argentine boy starting my career as a programmer. I´m a **F
 - Frontend built with React, React Router, Redux and CSS Modules.
 - Backend built with NodeJS, Express, Sequelize and PostgreSQL.
 - Some features: pagination, searches, orders and filters, controlled form to add and/or associate a tourist activity to one or more countries, etc.
+
+**Full-Stack Teaching Assistant** <br />
+*Bootcamp Pre Course Assistant (Henry Hero)  for Full-Stack Development Students* <br />
+- Guide students in the first steps of the course
+- Assist to solve exercises vía Slack
+- Live lectures to students
+- Propose ideas to improve the Bootcamp processes
 
