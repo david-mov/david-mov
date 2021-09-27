@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.davidmovsichoff@gmail.com)](mailto:davidmovsichoff@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mov_david)](https://twitter.com/mov_david)
 
-I’m a 20 year old Argentine boy starting my career as a programmer. I’m a **Programming Technician** graduated from [E.E.S.T n°2](https://yellow.place/es/escuela-de-educaci%C3%B3n-secundaria-t%C3%A9cnica-n2-lomas-de-zamora-temperley-argentina) of Buenos Aires. and I’m on the way to be a **Full Stack Web Developer** studying at [Henry Academy](https://www.soyhenry.com/).
+I’m a 20 year old Argentine boy starting my career as a programmer. I´m a **Full Stack Web Developer** and **Programming Technician**, student in [Henry Academy](https://www.soyhenry.com/) and graduated from [E.E.S.T n°2](https://yellow.place/es/escuela-de-educaci%C3%B3n-secundaria-t%C3%A9cnica-n2-lomas-de-zamora-temperley-argentina) of Buenos Aires, a technical institute specializing in programming.
 
 - 🌱 I’m currently working on a final project for the Henry Academy bootcamp.
 - 📚 I’m currently learning Typescript, React Native and MongoDB-Moongose.
@@ -13,7 +13,7 @@ I’m a 20 year old Argentine boy starting my career as a programmer. I’m a **
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/sergio-david-movsichoff-221824209/).
 - 💌 Contact me at [davidmovsichoff@gmail.com](mailto:davidmovsichoff@gmail.com).
 
-**Technologies I've been learning and using so far :**
+###### Technologies I've been learning and using so far :
 
 - Programming Languages: <br />
     ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
@@ -48,17 +48,17 @@ I’m a 20 year old Argentine boy starting my career as a programmer. I’m a **
     ![Postman](https://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman)
     ![Babel](https://img.shields.io/badge/-Babel-eee?style=flat-square&logo=babel)
 
-**Experiences :**
+###### Experiences :
 
-Full-Stack Teaching Assistant <br />
-Bootcamp Pre Course Assistant (Henry Hero)  for Full-Stack Development Students <br />
+**Full-Stack Teaching Assistant** <br />
+*Bootcamp Pre Course Assistant (Henry Hero)  for Full-Stack Development Students* <br />
 - Guide students in the first steps of the course
 - Assist to solve exercises vía Slack
 - Live lectures to students
 - Propose ideas to improve the Bootcamp processes
 
-Full-Stack Individual Project <br />
-Development of a SPA (Single Page Application) for the Henry Academy Bootcamp : <br />
+**Full-Stack Individual Project** <br />
+*Development of a SPA (Single Page Application) for the Henry Academy Bootcamp :* <br />
 - Consumes data from the APÍ "REST Countries".
 - Frontend built with React, React Router, Redux and CSS Modules.
 - Backend built with NodeJS, Express, Sequelize and PostgreSQL.
