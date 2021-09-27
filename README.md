@@ -13,7 +13,7 @@ I’m a 20 year old Argentine boy starting my career as a programmer. I’m a **
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/sergio-david-movsichoff-221824209/).
 - 💌 Contact me at [davidmovsichoff@gmail.com](mailto:davidmovsichoff@gmail.com).
 
-Technologies I've been learning and using so far :
+**Technologies I've been learning and using so far :**
 
 - Programming Languages: <br />
     ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
@@ -48,7 +48,7 @@ Technologies I've been learning and using so far :
     ![Postman](https://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman)
     ![Babel](https://img.shields.io/badge/-Babel-eee?style=flat-square&logo=babel)
 
-Experiences:
+**Experiences :**
 
 Full-Stack Teaching Assistant <br />
 Bootcamp Pre Course Assistant (Henry Hero)  for Full-Stack Development Students <br />
@@ -58,7 +58,7 @@ Bootcamp Pre Course Assistant (Henry Hero)  for Full-Stack Development Students 
 - Propose ideas to improve the Bootcamp processes
 
 Full-Stack Individual Project <br />
-Development of a SPA (Single Page Application) for the Henry Academy Bootcamp: <br />
+Development of a SPA (Single Page Application) for the Henry Academy Bootcamp : <br />
 - Consumes data from the APÍ "REST Countries".
 - Frontend built with React, React Router, Redux and CSS Modules.
 - Backend built with NodeJS, Express, Sequelize and PostgreSQL.
