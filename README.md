@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.davidmovsichoff@gmail.com)](mailto:davidmovsichoff@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mov_david)](https://twitter.com/mov_david)
 
-I’m a 20 year old Argentine boy starting my career as a programmer. I´m a **Full Stack Web Developer** and **Programming Technician**, student in [Henry Academy](https://www.soyhenry.com/) and graduated from [E.E.S.T n°2](https://yellow.place/es/escuela-de-educaci%C3%B3n-secundaria-t%C3%A9cnica-n2-lomas-de-zamora-temperley-argentina) of Buenos Aires, a technical institute specializing in programming.
+I’m a 20 year old Argentine boy starting my career as a programmer. I´m a **Full Stack Web Developer** and **Programming Technician**, graduate student from [Henry Academy](https://www.soyhenry.com/) and  [E.E.S.T n°2](https://yellow.place/es/escuela-de-educaci%C3%B3n-secundaria-t%C3%A9cnica-n2-lomas-de-zamora-temperley-argentina) of Buenos Aires, a technical institute specializing in programming.
 
 - 🌱 I’m currently working on a final project for the Henry Academy bootcamp.
 - 📚 I’m currently learning Typescript, React Native and MongoDB-Moongose.
@@ -49,6 +49,12 @@ I’m a 20 year old Argentine boy starting my career as a programmer. I´m a **F
     ![Babel](https://img.shields.io/badge/-Babel-eee?style=flat-square&logo=babel)
 
 ##### Experiences :
+
+**Full-Stack Team Project** <br />
+*Development of an E-Commerce SPA (Single Page Application) for the Henry Academy Bootcamp :* <br />
+- Frontend built with React, React Router, Redux and pure CSS (responsive design).
+- Backend built with NodeJS, Express, Sequelize and PostgreSQL.
+- Some features: registration and login (user authentication and role permissions); shopping cart for guest and users; shopping system with MercadoPago Checkout API; product statistics based on visits, sales and ratings; product, category and user management system, etc.
 
 **Full-Stack Individual Project** <br />
 *Development of a SPA (Single Page Application) for the Henry Academy Bootcamp :* <br />
