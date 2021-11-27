@@ -54,7 +54,7 @@ I’m a 20 year old Argentine boy starting my career as a programmer. I´m a **F
 *Development of an E-Commerce SPA (Single Page Application) for the Henry Academy Bootcamp :* <br />
 - Frontend built with React, React Router, Redux and pure CSS (responsive design).
 - Backend built with NodeJS, Express, Sequelize and PostgreSQL.
-- Some features: registration and login (user authentication and role permissions); shopping cart for guest and users; shopping system with MercadoPago Checkout API; product statistics based on visits, sales and ratings; product, category and user management system, etc.
+- Some features: registration and login (user authentication and role permissions); shopping cart for guest and users; shopping system with MercadoPago Checkout API; product statistics display based on visits, sales and ratings; product, category and user management system, etc.
 
 **Full-Stack Individual Project** <br />
 *Development of a SPA (Single Page Application) for the Henry Academy Bootcamp :* <br />
