@@ -21,14 +21,14 @@ I’m a 20 year old Argentine guy starting my career as a programmer. I´m a **F
     ![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=1572B6)
     ![SQL](https://img.shields.io/badge/-SQL-eee?style=flat-square&logo=databricks&logoColor=black)
     ![Python](https://img.shields.io/badge/-Python-eee?style=flat-square&logo=python)
-- Frontend: <br />
+- Frontend technologies: <br />
     ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)
     ![React-Native](https://img.shields.io/badge/-React_Native-eee?style=flat-square&logo=react)
     ![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=764abc)
     ![JQuery](https://img.shields.io/badge/-JQuery-eee?style=flat-square&logo=jquery&logoColor=0868AC)
     ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=webpack&logoColor=1c78c0)
     ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
-- Backend: <br />
+- Backend technologies: <br />
     ![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
     ![Express](https://img.shields.io/badge/-Express-eee?style=flat-square&logo=express&logoColor=%2361DAFB)
     ![Sequelize](https://img.shields.io/badge/-Sequelize-eee?style=flat-square&logo=sequelize&logoColor=2f406a)
@@ -39,11 +39,11 @@ I’m a 20 year old Argentine guy starting my career as a programmer. I´m a **F
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=336791)
     ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb)
     ![SQLite](https://img.shields.io/badge/-SQLite-eee?style=flat-square&logo=sqlite&logoColor=%2307405e)
-- Testing: <br />
+- Testing technologies: <br />
     ![Mocha](https://img.shields.io/badge/-Mocha-eee?style=flat-square&logo=mocha)
     ![Chai](https://img.shields.io/badge/-Chai-eee?style=flat-square&logo=chai&logoColor=yellow)
     ![Jest](https://img.shields.io/badge/-Jest-eee?style=flat-square&logo=jest&logoColor=99425B)
-- IDEs & Tools: <br />
+- Tools: <br />
     ![Git](https://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F34F29)
     ![npm](https://img.shields.io/badge/-npm-eee?style=flat-square&logo=npm)
     ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker)
