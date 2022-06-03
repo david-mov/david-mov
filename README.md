@@ -1,13 +1,13 @@
-### Hi, I'm David - Full Stack Web Developer 👋
+### Hello, I am David - Full Stack Web Developer 👋
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/david-mov/)](https://github.com/david-mov/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-mov)](https://www.linkedin.com/in/david-mov)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.davidmovsichoff@gmail.com)](mailto:davidmovsichoff@gmail.com)
 
-I’m a 20 year old Argentine guy starting my career as a programmer. I´m a **Full Stack Web Developer** and **Programming Technician**, graduate student from [Henry Academy](https://www.soyhenry.com/) and  [E.E.S.T n°2](https://yellow.place/es/escuela-de-educaci%C3%B3n-secundaria-t%C3%A9cnica-n2-lomas-de-zamora-temperley-argentina) of Buenos Aires, a technical institute specializing in programming.
+I am a 20 years old Argentine developer looking for my first job experience in IT sector. I am a **Full Stack Web Developer** and **Programming Technician**, graduate student from [Henry Academy](https://www.soyhenry.com/) and  [E.E.S.T n°2](https://yellow.place/es/escuela-de-educaci%C3%B3n-secundaria-t%C3%A9cnica-n2-lomas-de-zamora-temperley-argentina) of Buenos Aires, a technical high-school specializing in programming.
 
-- ⭐ Full-stack web developer with preference in back-end development.
 - 🌱 I’m currently actively seeking employement.
 - 📚 I’m currently learning Typescript, Django and Firebase.
+- ⭐ Full-stack web developer with preference in back-end.
 - 😍 My hobbies are training, reading and singing.
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/sergio-david-movsichoff-221824209/).
 - 💌 Contact me at [davidmovsichoff@gmail.com](mailto:davidmovsichoff@gmail.com).
