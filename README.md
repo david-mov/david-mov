@@ -6,7 +6,7 @@
 I am a 20 years old Argentine developer looking for my first job experience in IT sector. I am a **Full Stack Web Developer** and **Programming Technician**, graduate student from [Henry Academy](https://www.soyhenry.com/) and  [E.E.S.T n°2](https://yellow.place/es/escuela-de-educaci%C3%B3n-secundaria-t%C3%A9cnica-n2-lomas-de-zamora-temperley-argentina) of Buenos Aires, a technical high-school specializing in programming.
 
 - 🌱 I am currently actively seeking employement.
-- 📚 I am currently learning Typescript, Django and Firebase.
+- 📚 I am currently learning TypeScript and Django.
 - ⭐ Full-stack web developer with preference in back-end.
 - 😍 My hobbies are training, reading and singing.
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/sergio-david-movsichoff-221824209/).
