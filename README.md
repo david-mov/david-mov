@@ -7,7 +7,7 @@ I am a 20 years old Argentine developer looking for my first job experience in I
 
 - 🌱 I am currently actively seeking employement.
 - ⭐ Full-stack web developer with preference in back-end.
-- 📚 I am currently learning TypeScript and Django.
+- 📚 I am currently learning TypeScript and Python.
 - 😍 My hobbies are training, reading and singing.
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/sergio-david-movsichoff-221824209/).
 - 💌 Contact me at [davidmovsichoff@gmail.com](mailto:davidmovsichoff@gmail.com).
@@ -34,7 +34,7 @@ I am a 20 years old Argentine developer looking for my first job experience in I
     ![Sequelize](https://img.shields.io/badge/-Sequelize-eee?style=flat-square&logo=sequelize&logoColor=2f406a)
     ![Mongoose](https://img.shields.io/badge/-Mongoose-eee?style=flat-square&logo=mongodb&logoColor=6e1217)
     ![Prisma](https://img.shields.io/badge/-Prisma-eee?style=flat-square&logo=prisma&logoColor=black)
-    ![Django](https://img.shields.io/badge/-Django-eee?style=flat-square&logo=django&logoColor=008134)
+    <!-- ![Django](https://img.shields.io/badge/-Django-eee?style=flat-square&logo=django&logoColor=008134) -->
 - Database Management Systems: <br />
     ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=336791)
