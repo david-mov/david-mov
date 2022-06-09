@@ -24,15 +24,16 @@ I am a 20 years old Argentine developer looking for my first job experience in I
 - Frontend technologies: <br />
     ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)
     ![React-Native](https://img.shields.io/badge/-React_Native-eee?style=flat-square&logo=react)
+    ![React-Router](https://img.shields.io/badge/-React_Router-eee?style=flat-square&logo=react-router&logoColor=CA4245)
     ![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=764abc)
     ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=webpack&logoColor=1c78c0)
-    ![JQuery](https://img.shields.io/badge/-JQuery-eee?style=flat-square&logo=jquery&logoColor=0868AC)
     ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
+    <!-- ![JQuery](https://img.shields.io/badge/-JQuery-eee?style=flat-square&logo=jquery&logoColor=0868AC) -->
 - Backend technologies: <br />
     ![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
     ![Express](https://img.shields.io/badge/-Express-eee?style=flat-square&logo=express&logoColor=%2361DAFB)
-    ![Sequelize](https://img.shields.io/badge/-Sequelize-eee?style=flat-square&logo=sequelize&logoColor=2f406a)
     ![Mongoose](https://img.shields.io/badge/-Mongoose-eee?style=flat-square&logo=mongodb&logoColor=6e1217)
+    ![Sequelize](https://img.shields.io/badge/-Sequelize-eee?style=flat-square&logo=sequelize&logoColor=2f406a)
     ![Prisma](https://img.shields.io/badge/-Prisma-eee?style=flat-square&logo=prisma&logoColor=black)
     <!-- ![Django](https://img.shields.io/badge/-Django-eee?style=flat-square&logo=django&logoColor=008134) -->
 - Database Management Systems: <br />
