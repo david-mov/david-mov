@@ -39,7 +39,7 @@ I am a 20 years old Argentine developer looking for my first job experience in I
     ![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=764abc)
     ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=webpack&logoColor=1c78c0)
     ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
-    ![LESS](https://img.shields.io/badge/-LESS-eee?style=flat-square&logo=less&logoColor=2A4D80)
+    <!-- ![LESS](https://img.shields.io/badge/-LESS-eee?style=flat-square&logo=less&logoColor=2A4D80) -->
     <!-- ![JQuery](https://img.shields.io/badge/-JQuery-eee?style=flat-square&logo=jquery&logoColor=0868AC) -->
 - Testing technologies: <br />
     ![Mocha](https://img.shields.io/badge/-Mocha-eee?style=flat-square&logo=mocha)
