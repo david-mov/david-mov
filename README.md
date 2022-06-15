@@ -56,6 +56,14 @@ Currently I am actively seeking employment, in a company where I can grow and co
     <!-- ![NginX](https://img.shields.io/badge/-NginX-eee?style=flat-square&logo=nginx&logoColor=119900) -->
     <!-- ![Firebase](https://img.shields.io/badge/-Firebase-eee?style=flat-square&logo=firebase) -->
 
+##### Professional trajectory:
+
+I study at E.E.S.T N°2 (Technical High School) from Lomas de Zamora, Buenos Aires, Argentina. I took the Computer Programming specialization and I graduated with a Programming Technician Degree. In the last four years of study, I studied in laboratories about electronics, programming, hardware, operating systems, applications, computer networking, web design, web development, databases and development for mobile platforms. Besides, I realized professional practices, which consisted of a web project development for the institution. This whole stage formed me as a programmer and teached me about commitment and peer cooperation. During my formation I have learned about technologies such as HTML, CSS, php, SQL, Visual Basic, Visual Basic .NET and C#.
+
+After graduation, the Henry Academy intensive bootcamp was recommended to me. There I deepened some knowledge as well as learned some completely new ones, all focused on web development and real work. The intensity of the program and the proposed challenges pushed me to surpass myself in order to obtain the desired results. In short, I learned, implemented what I learned, developed projects, exposed live, collaborates with colleagues and worked as part of a team. It was an incredible experience. The academy certifies my knowledge and skills with HTML, CSS, JavaScript, SQL, Node, React and Redux. Other technologies learned during the course include PostgreSQL, Express, Sequelize, Bootstrap, LESS, Jest and the agile methodology SCRUM.
+
+I am currently in active job search, while continuing to train on web development, learning languages and technologies such as TypeScript, Python, MongoDB, React Native, Mocha and Docker.
+
 ##### Experiences:
 
 **Full-Stack Team Project** <br />
@@ -77,13 +85,5 @@ Currently I am actively seeking employment, in a company where I can grow and co
 - Assistance to solve exercises vía Slack.
 - Live lectures for more than 70 students.
 - Proposal of ideas to improve the bootcamp processes.
-
-##### Professional trajectory:
-
-I study at E.E.S.T N°2 (Technical High School) from Lomas de Zamora, Buenos Aires, Argentina. I took the Computer Programming specialization and I graduated with a Programming Technician Degree. In the last four years of study, I studied in laboratories about electronics, programming, hardware, operating systems, applications, computer networking, web design, web development, databases and development for mobile platforms. Besides, I realized professional practices, which consisted of a web project development for the institution. This whole stage formed me as a programmer and teached me about commitment and peer cooperation. During my formation I have learned about technologies such as HTML, CSS, php, SQL, Visual Basic, Visual Basic .NET and C#.
-
-After graduation, the Henry Academy intensive bootcamp was recommended to me. There I deepened some knowledge as well as learned some completely new ones, all focused on web development and real work. The intensity of the program and the proposed challenges pushed me to surpass myself in order to obtain the desired results. In short, I learned, implemented what I learned, developed projects, exposed live, collaborates with colleagues and worked as part of a team. It was an incredible experience. The academy certifies my knowledge and skills with HTML, CSS, JavaScript, SQL, Node, React and Redux. Other technologies learned during the course include PostgreSQL, Express, Sequelize, Bootstrap, LESS, Jest and the agile methodology SCRUM.
-
-I am currently in active job search, while continuing to train on web development, learning languages and technologies such as TypeScript, Python, MongoDB, React Native, Mocha and Docker.
 
 
