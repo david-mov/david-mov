@@ -66,24 +66,29 @@ I am currently in active job search, while continuing to train on web developmen
 
 ##### Experiences:
 
-**Full-Stack Team Project** <br />
+**Back-end Teaching Assistant at CODERHOUSE** <br />
+*CoderHouse Back-end Bootcamp Teaching Assistant* <br />
+- Answering students' questions in virtual classrooms.
+- Giving complementary lessons for more than 100 students.
+- Correcting and assisting students in the delivery of projects.
+- Following up a group of students and provide them with technical and emotional support.
+
+**Full-Stack Teaching Assistant at HENRY** <br />
+*SoyHenry Full-Stack Bootcamp Pre-Course Teaching Assistant* <br />
+- Guiding students in the first steps in the course.
+- Assist in solving exercises vía Slack.
+- Giving live lectures for more than 70 students.
+- Proposing of ideas to improve the bootcamp processes.
+
+**HENRY Bootcamp Final Project** <br />
 *Development of an E-Commerce Single Page Application (Henry Academy Bootcamp) :* <br />
 - Frontend built with React, Redux and pure CSS3 (responsive design).
 - Backend built with NodeJS, Express, Sequelize and PostgreSQL.
 - Some features: registration and login (user authentication and role permissions); shopping cart for guest and users; shopping system with MercadoPago Checkout API; product statistics display based on visits, sales and ratings; product, category and user management system, and more.
 
-**Full-Stack Individual Project** <br />
+**HENRY Bootcamp Integrating Project** <br />
 *Development of a simple Single Page Application (Henry Bootcamp) :* <br />
 - Consumes data from the APÍ "REST Countries".
 - Frontend built with React, Redux and CSS3.
 - Backend built with NodeJS, Express, Sequelize and PostgreSQL.
 - Some features: pagination, searches, orders and filters, controlled form to add and/or associate a tourist activity to one or more countries, and more.
-
-**Full-Stack Teaching Assistant** <br />
-*Bootcamp Pre Course Assistant for Full-Stack Development Students (Henry Bootcamp)* <br />
-- Guides students in the first steps of the course.
-- Assistance to solve exercises vía Slack.
-- Live lectures for more than 70 students.
-- Proposal of ideas to improve the bootcamp processes.
-
-
