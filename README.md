@@ -67,7 +67,7 @@ I am currently in active job search, while continuing to train on web developmen
 ##### Experiences:
 
 **Back-end Teaching Assistant at CODERHOUSE** <br />
-*CoderHouse Back-end Bootcamp Teaching Assistant :* <br />
+*CoderHouse Back-end Development Bootcamp Teaching Assistant :* <br />
 - Answering students' questions in virtual classrooms.
 - Giving complementary lessons for more than 100 students.
 - Correcting and assisting students in the delivery of projects.
