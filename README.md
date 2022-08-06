@@ -74,7 +74,7 @@ I am currently in active job search, while continuing to train on web developmen
 - Following up a group of students and provide them with technical and emotional support.
 
 **Full-Stack Teaching Assistant at HENRY** <br />
-*SoyHenry Full-Stack Bootcamp Pre-Course Teaching Assistant :* <br />
+*Henry's Full-Stack Web Development Bootcamp Teaching Assistant :* <br />
 - Guiding students in the first steps in the course.
 - Assist in solving exercises vía Slack.
 - Giving live lectures for more than 70 students.
