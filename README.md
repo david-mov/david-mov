@@ -7,7 +7,7 @@ I am a 20 years old Argentinean developer. I am a Programming Technician graduat
 
 Currently I am actively seeking employment, in a company where I can grow and contribute with value and knowledge as a developer.
 
-- 🌱 I am currently actively seeking employement.
+- 🌱 I am currently working at CODERHOUSE.
 - ⭐ Full-stack web developer with preference in back-end.
 - 📚 I am currently learning TypeScript and Python.
 - 😍 My hobbies are training, reading and singing.
@@ -67,27 +67,27 @@ I am currently in active job search, while continuing to train on web developmen
 ##### Experiences:
 
 **Back-end Teaching Assistant at CODERHOUSE** <br />
-*CoderHouse Back-end Bootcamp Teaching Assistant* <br />
+*CoderHouse Back-end Bootcamp Teaching Assistant :* <br />
 - Answering students' questions in virtual classrooms.
 - Giving complementary lessons for more than 100 students.
 - Correcting and assisting students in the delivery of projects.
 - Following up a group of students and provide them with technical and emotional support.
 
 **Full-Stack Teaching Assistant at HENRY** <br />
-*SoyHenry Full-Stack Bootcamp Pre-Course Teaching Assistant* <br />
+*SoyHenry Full-Stack Bootcamp Pre-Course Teaching Assistant :* <br />
 - Guiding students in the first steps in the course.
 - Assist in solving exercises vía Slack.
 - Giving live lectures for more than 70 students.
 - Proposing of ideas to improve the bootcamp processes.
 
 **HENRY Bootcamp Final Project** <br />
-*Development of an E-Commerce Single Page Application (Henry Academy Bootcamp) :* <br />
+*Development of an E-Commerce SPA with a work team under the Srum methodology :* <br />
 - Frontend built with React, Redux and pure CSS3 (responsive design).
 - Backend built with NodeJS, Express, Sequelize and PostgreSQL.
 - Some features: registration and login (user authentication and role permissions); shopping cart for guest and users; shopping system with MercadoPago Checkout API; product statistics display based on visits, sales and ratings; product, category and user management system, and more.
 
 **HENRY Bootcamp Integrating Project** <br />
-*Development of a simple Single Page Application (Henry Bootcamp) :* <br />
+*Development of a simple Single Page Application :* <br />
 - Consumes data from the APÍ "REST Countries".
 - Frontend built with React, Redux and CSS3.
 - Backend built with NodeJS, Express, Sequelize and PostgreSQL.
