@@ -1,5 +1,5 @@
 ### Hello, I am David - Full Stack Web Developer 👋
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/david-mov/)](https://github.com/david-mov/)
+<!-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/david-mov/)](https://github.com/david-mov/) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-mov)](https://www.linkedin.com/in/david-mov)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.davidmovsichoff@gmail.com)](mailto:davidmovsichoff@gmail.com)
 
@@ -18,11 +18,11 @@ Currently I am actively seeking employment, in a company where I can grow and co
 
 - Programming Languages: <br />
     ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
-    ![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript)
+    <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript) -->
     ![HTML](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
     ![CSS](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=1572B6)
     ![SQL](https://img.shields.io/badge/-SQL-eee?style=flat-square&logo=databricks&logoColor=black)
-    ![Python](https://img.shields.io/badge/-Python-eee?style=flat-square&logo=python)
+    <!-- ![Python](https://img.shields.io/badge/-Python-eee?style=flat-square&logo=python) -->
 - Backend technologies: <br />
     ![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
     ![Express](https://img.shields.io/badge/-Express-eee?style=flat-square&logo=express&logoColor=%2361DAFB)
@@ -34,10 +34,11 @@ Currently I am actively seeking employment, in a company where I can grow and co
     ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=336791)
     ![SQLite](https://img.shields.io/badge/-SQLite-eee?style=flat-square&logo=sqlite&logoColor=%2307405e)
+    ![Firebase](https://img.shields.io/badge/-Firebase-eee?style=flat-square&logo=firebase)
 - Frontend technologies: <br />
     ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)
-    ![React-Native](https://img.shields.io/badge/-React_Native-eee?style=flat-square&logo=react)
-    ![React-Router](https://img.shields.io/badge/-React_Router-eee?style=flat-square&logo=react-router&logoColor=CA4245)
+    <!-- ![React-Native](https://img.shields.io/badge/-React_Native-eee?style=flat-square&logo=react)
+    ![React-Router](https://img.shields.io/badge/-React_Router-eee?style=flat-square&logo=react-router&logoColor=CA4245) -->
     ![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=764abc)
     ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=webpack&logoColor=1c78c0)
     ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
@@ -51,10 +52,9 @@ Currently I am actively seeking employment, in a company where I can grow and co
     ![Git](https://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F34F29)
     ![npm](https://img.shields.io/badge/-npm-eee?style=flat-square&logo=npm)
     ![Babel](https://img.shields.io/badge/-Babel-eee?style=flat-square&logo=babel)
-    ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker)
+    <!-- ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker) -->
     ![Postman](https://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman)
-    <!-- ![NginX](https://img.shields.io/badge/-NginX-eee?style=flat-square&logo=nginx&logoColor=119900) -->
-    <!-- ![Firebase](https://img.shields.io/badge/-Firebase-eee?style=flat-square&logo=firebase) -->
+    ![NginX](https://img.shields.io/badge/-NginX-eee?style=flat-square&logo=nginx&logoColor=119900)
 
 ##### Professional trajectory:
 
