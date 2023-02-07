@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-mov)](https://www.linkedin.com/in/david-mov)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.davidmovsichoff@gmail.com)](mailto:davidmovsichoff@gmail.com)
 
-I am a 20 years old Argentinean developer. I am a Programming Technician graduated from E.E.S.T n°2, a technical high school specialized in programming and Full Stack Web Developer certified by HERNY, a latin american programming academy.
+I am a full-stack web developer with formal education as a programming technician. I have extensive knowledge of JavaScript, Node.js, React, Express, MongoDB, SQL and testing. My strengths are problem solving, quick adaptability, team working, good communication and active learning.
 
-Currently I am actively seeking employment, in a company where I can grow and contribute with value and knowledge as a developer.
+Currently I am working as a Back-end Programming Tutor at Coderhouse and I am actively seeking employment as a web developer
 
 - 🌱 I am currently working at CODERHOUSE.
 - ⭐ Full-stack web developer with preference in back-end.
