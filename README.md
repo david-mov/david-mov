@@ -62,23 +62,22 @@ I study at E.E.S.T N°2 (Technical High School) from Lomas de Zamora, Buenos Air
 
 After graduation, the Henry Academy intensive bootcamp was recommended to me. There I deepened some knowledge as well as learned some completely new ones, all focused on web development and real work. The intensity of the program and the proposed challenges pushed me to surpass myself in order to obtain the desired results. In short, I learned, implemented what I learned, developed projects, exposed live, collaborates with colleagues and worked as part of a team. It was an incredible experience. The academy certifies my knowledge and skills with HTML, CSS, JavaScript, SQL, Node, React and Redux. Other technologies learned during the course include PostgreSQL, Express, Sequelize, Bootstrap, LESS, Jest and the agile methodology SCRUM.
 
-I am currently in active job search, while continuing to train on web development, learning languages and technologies such as TypeScript, Python, MongoDB, React Native, Mocha and Docker.
+I am currently in active job search, while continuing to train on web development, learning languages and technologies such as TypeScript, Python, React Native, and Docker.
 
 ##### Experiences:
 
 **Back-end Teaching Assistant at CODERHOUSE** <br />
 *CoderHouse Back-end Development Bootcamp Teaching Assistant :* <br />
-- Answering students' questions in virtual classrooms.
-- Giving complementary lessons for more than 100 students.
-- Correcting and assisting students in the delivery of projects.
-- Following up a group of students and provide them with technical and emotional support.
+- Reviewing and correcting code of back-end projects built with NodeJS.
+- Answering students questions and contributing to the live classes.
+- Following up a group of students and provide them personalised support.
+- Teaching live complementary classes.
 
 **Full-Stack Teaching Assistant at HENRY** <br />
 *Henry's Full-Stack Web Development Bootcamp Teaching Assistant :* <br />
-- Guiding students in the first steps in the course.
-- Assist in solving exercises vía Slack.
-- Giving live lectures for more than 70 students.
-- Proposing of ideas to improve the bootcamp processes.
+- Guiding new students through their first stage of the course.
+- Assisting students in exercise solving synchronously and asynchronously.
+- Resolving and explaining JavaScript exercises on live.
 
 **HENRY Bootcamp Final Project** <br />
 *Development of an E-Commerce SPA with a work team under the Srum methodology :* <br />
