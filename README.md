@@ -22,7 +22,7 @@ Currently I am working as a Back-end Programming Tutor at Coderhouse and I am ac
     ![HTML](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
     ![CSS](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=1572B6)
     ![SQL](https://img.shields.io/badge/-SQL-eee?style=flat-square&logo=databricks&logoColor=black)
-    <!-- ![Python](https://img.shields.io/badge/-Python-eee?style=flat-square&logo=python) -->
+    ![Python](https://img.shields.io/badge/-Python-eee?style=flat-square&logo=python)
 - Backend technologies: <br />
     ![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
     ![Express](https://img.shields.io/badge/-Express-eee?style=flat-square&logo=express&logoColor=%2361DAFB)
@@ -52,7 +52,7 @@ Currently I am working as a Back-end Programming Tutor at Coderhouse and I am ac
     ![Git](https://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F34F29)
     ![npm](https://img.shields.io/badge/-npm-eee?style=flat-square&logo=npm)
     ![Babel](https://img.shields.io/badge/-Babel-eee?style=flat-square&logo=babel)
-    <!-- ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker) -->
+    ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker)
     ![Postman](https://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman)
     ![NginX](https://img.shields.io/badge/-NginX-eee?style=flat-square&logo=nginx&logoColor=119900)
 
