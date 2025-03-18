@@ -5,12 +5,12 @@
 
 I am a full-stack web developer with formal education as a programming technician. I have extensive knowledge of JavaScript, Node.js, React, Express, MongoDB, SQL and testing. My strengths are problem solving, quick adaptability, team working, good communication and active learning.
 
-Currently I am working as a Back-end Programming Tutor at Coderhouse and I am actively seeking employment as a web developer
+Currently I am working as a IT Support Technician at IGB Electronic and I am actively seeking employment in IT field.
 
-- 🌱 I am currently working at CODERHOUSE.
+- 🌱 I am currently working at IGB ELECTRONIC as IT Support.
 - ⭐ Full-stack web developer with preference in back-end.
-- 📚 I am currently learning TypeScript and Python.
-- 😍 My hobbies are training, reading and singing.
+- 📚 Student of Computer Sciences at Universidad de Buenos Aires (UBA).
+- 😍 My hobbies are reading, playing volleyball and calisthenics.
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/sergio-david-movsichoff-221824209/).
 - 💌 Contact me at [davidmovsichoff@gmail.com](mailto:davidmovsichoff@gmail.com).
 
@@ -58,36 +58,23 @@ Currently I am working as a Back-end Programming Tutor at Coderhouse and I am ac
 
 ##### Professional trajectory:
 
-I study at E.E.S.T N°2 (Technical High School) from Lomas de Zamora, Buenos Aires, Argentina. I took the Computer Programming specialization and I graduated with a Programming Technician Degree. In the last four years of study, I studied in laboratories about electronics, programming, hardware, operating systems, applications, computer networking, web design, web development, databases and development for mobile platforms. Besides, I realized professional practices, which consisted of a web project development for the institution. This whole stage formed me as a programmer and teached me about commitment and peer cooperation. During my formation I have learned about technologies such as HTML, CSS, php, SQL, Visual Basic, Visual Basic .NET and C#.
+I study at E.E.S.T N°2 (Technical High School) from Lomas de Zamora, Buenos Aires, Argentina. I took the Computer Programming specialization and I graduated with a Programming Technician Degree. In the last four years of study, I studied in laboratories about electronics, programming, hardware, operating systems, applications, computer networking, web design, web development, databases and development for mobile platforms. Besides, I realized professional practices, which consisted of a web project development for the institution. During this formation I learned about technologies such as HTML, CSS, php, SQL, Visual Basic, Visual Basic .NET and C#.
 
-After graduation, the Henry Academy intensive bootcamp was recommended to me. There I deepened some knowledge as well as learned some completely new ones, all focused on web development and real work. The intensity of the program and the proposed challenges pushed me to surpass myself in order to obtain the desired results. In short, I learned, implemented what I learned, developed projects, exposed live, collaborates with colleagues and worked as part of a team. It was an incredible experience. The academy certifies my knowledge and skills with HTML, CSS, JavaScript, SQL, Node, React and Redux. Other technologies learned during the course include PostgreSQL, Express, Sequelize, Bootstrap, LESS, Jest and the agile methodology SCRUM.
+After graduation, the Henry Academy intensive bootcamp was recommended to me. There I deepened some knowledge as well as learned some completely new ones, all focused on web development and real work. I implemented what I learned, developed projects, exposed live, collaborates with colleagues and worked as part of a team. The academy certifies my knowledge and skills with HTML, CSS, JavaScript, SQL, Node, React and Redux. Other technologies learned during the course include PostgreSQL, Express, Sequelize, Bootstrap, LESS, Jest and the agile methodology SCRUM.
 
-I am currently in active job search, while continuing to train on web development, learning languages and technologies such as TypeScript, Python, React Native, and Docker.
+I am currently in active job search, while continuing to train on web development, learning different languages and technologies as well as mastering the ones I already learned.
 
 ##### Experiences:
 
+**IT Support Technician at IGB ELECTRONIC** <br />
+*IGB Electronic Information Technology Technician :* <br />
+- Repair, configure and build desktop computers and laptops.
+- Attend customers for the sale or repair of electronic devices.
+- Perform stock control and replenishment of products.
+
 **Back-end Teaching Assistant at CODERHOUSE** <br />
-*CoderHouse Back-end Development Bootcamp Teaching Assistant :* <br />
-- Reviewing and correcting code of back-end projects built with NodeJS.
-- Answering students questions and contributing to the live classes.
-- Following up a group of students and provide them personalised support.
-- Teaching live complementary classes.
-
-**Full-Stack Teaching Assistant at HENRY** <br />
-*Henry's Full-Stack Web Development Bootcamp Teaching Assistant :* <br />
-- Guiding new students through their first stage of the course.
-- Assisting students in exercise solving synchronously and asynchronously.
-- Resolving and explaining JavaScript exercises on live.
-
-**HENRY Bootcamp Final Project** <br />
-*Development of an E-Commerce SPA with a work team under the Srum methodology :* <br />
-- Frontend built with React, Redux and pure CSS3 (responsive design).
-- Backend built with NodeJS, Express, Sequelize and PostgreSQL.
-- Some features: registration and login (user authentication and role permissions); shopping cart for guest and users; shopping system with MercadoPago Checkout API; product statistics display based on visits, sales and ratings; product, category and user management system, and more.
-
-**HENRY Bootcamp Integrating Project** <br />
-*Development of a simple Single Page Application :* <br />
-- Consumes data from the APÍ "REST Countries".
-- Frontend built with React, Redux and CSS3.
-- Backend built with NodeJS, Express, Sequelize and PostgreSQL.
-- Some features: pagination, searches, orders and filters, controlled form to add and/or associate a tourist activity to one or more countries, and more.
+*Coderhouse Back-end Development Bootcamp Teaching Assistant :* <br />
+- Helping the teacher during live classes, answering students questions and contributing to the explanation.
+- Performing following on a students group and giving them support for complete the course succesfully.
+- Teaching complementary classes on live for +100 students.
+- Reviewing and correcting students in projects deliveries.
