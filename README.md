@@ -62,6 +62,8 @@ I study at E.E.S.T N°2 (Technical High School) from Lomas de Zamora, Buenos Air
 
 After graduation, the Henry Academy intensive bootcamp was recommended to me. There I deepened some knowledge as well as learned some completely new ones, all focused on web development and real work. I implemented what I learned, developed projects, exposed live, collaborates with colleagues and worked as part of a team. The academy certifies my knowledge and skills with HTML, CSS, JavaScript, SQL, Node, React and Redux. Other technologies learned during the course include PostgreSQL, Express, Sequelize, Bootstrap, LESS, Jest and the agile methodology SCRUM.
 
+ <!-- ONGOING Currently I am studying Computer Sciences at the University of Buenos Aires (UBA) -->
+
 I am currently in active job search, while continuing to train on web development, learning different languages and technologies as well as mastering the ones I already learned.
 
 ##### Experiences:
