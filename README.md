@@ -1,5 +1,5 @@
 # 👋 Hi, I'm David 
-### **Full-Stack Developer | IT Support | Tech Educator** 
+### **Full-Stack Developer | IT Support | CS Student | Tech Educator** 
 
 - 🌱 **Currently working at** IGB ELECTRONIC as IT Support.
 - 📚 **Studying** Computer Sciences at Universidad de Buenos Aires (UBA).
