@@ -12,7 +12,7 @@
 
 - Programming Languages: <br />
     ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
-    [TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript)
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript)
     ![HTML](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
     ![CSS](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=1572B6)
     ![SQL](https://img.shields.io/badge/-SQL-eee?style=flat-square&logo=databricks&logoColor=black)
