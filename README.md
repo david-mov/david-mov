@@ -1,7 +1,5 @@
 # 👋 Hi, I'm David 
 ### **Full-Stack Developer | IT Support | Tech Educator** 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-mov)](https://www.linkedin.com/in/david-mov)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.davidmovsichoff@gmail.com)](mailto:davidmovsichoff@gmail.com)
 
 - 🌱 **Currently working at** IGB ELECTRONIC as IT Support.
 - 📚 **Studying** Computer Sciences at Universidad de Buenos Aires (UBA).
