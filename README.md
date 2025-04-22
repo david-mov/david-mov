@@ -3,7 +3,7 @@
 
 - 🌱 **Currently working at** IGB ELECTRONIC as IT Support.
 - 📚 **Studying** Computer Sciences at Universidad de Buenos Aires (UBA).
-- 💬 **Ask me about** JavaScript, TypeScript, back-end development.
+- 💬 **Ask me about** Web development, computer repair.
 - 📫 **How to reach me:** [davidmovsichoff@gmail.com](mailto:davidmovsichoff@gmail.com).
 
 ### **🛠️ Tech Stack** 
